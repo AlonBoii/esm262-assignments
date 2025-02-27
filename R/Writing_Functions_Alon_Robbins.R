@@ -31,3 +31,5 @@ dN_dt <- r*N*(1-N/K)
 
 #Function Citation: Ecology W25 (Tilman) Lecture Notes 2/27, adding new idea
 
+#edits at 8:42PM attempt 4
+
