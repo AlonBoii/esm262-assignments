@@ -29,5 +29,5 @@ dN_dt <- r*N*(1-N/K)
   return(dN_dt)
 }
 
-
+#Function Citation: Ecology W25 (Tilman) Lecture Notes
 
